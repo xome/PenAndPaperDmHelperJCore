@@ -12,15 +12,15 @@
         <java.version>21</java.version>
         <!--<testSourceDirectory>src/test/java/de/mayer/penandpaperdmhelperjcore</testSourceDirectory>-->
     </properties>
-    <packaging>jar</packaging>
-    <!--<build>
+    <!--<packaging>jar</packaging>-->
+    <build>
         <plugins>
             <plugin>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.1.2</version>
             </plugin>
         </plugins>
-    </build>-->
+    </build>
 
     <dependencies>
         <dependency>
