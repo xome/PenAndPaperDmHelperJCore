@@ -1,9 +1,11 @@
-package de.mayer.backendspringpostgres.graph.persistence.impl;
+package de.mayer.penandpaperdmhelperjcore.graph.impl;
 
-import de.mayer.backendspringpostgres.graph.domainservice.ChapterLinkRepository;
-import de.mayer.backendspringpostgres.graph.model.ChapterLink;
+import de.mayer.penandpaperdmhelperjcore.graph.domainservice.ChapterLinkRepository;
+import de.mayer.penandpaperdmhelperjcore.graph.model.ChapterLink;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 public class InMemoryChapterLinkRepository implements ChapterLinkRepository {
     private HashMap<String, Set<ChapterLink>> database;

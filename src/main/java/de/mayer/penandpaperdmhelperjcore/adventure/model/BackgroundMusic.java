@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.adventure.model;
+package de.mayer.penandpaperdmhelperjcore.adventure.model;
 
 public record BackgroundMusic(String name, String base64) implements RecordInAChapter {
 

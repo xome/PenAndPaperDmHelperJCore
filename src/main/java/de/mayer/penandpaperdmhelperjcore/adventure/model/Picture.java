@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.adventure.model;
+package de.mayer.penandpaperdmhelperjcore.adventure.model;
 
 public record Picture(String base64, String fileFormat, Boolean isShareableWithGroup) implements RecordInAChapter {
     public Picture {

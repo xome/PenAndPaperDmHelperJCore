@@ -1,0 +1,1 @@
+This project contains the core logic for (PenAndPaperHelper)[https://github.com/xome/PenAndPaperHelperOpenApi] written in Java

@@ -1,7 +1,7 @@
-package de.mayer.backendspringpostgres.graph.domainservice;
+package de.mayer.penandpaperdmhelperjcore.graph.domainservice;
 
-import de.mayer.backendspringpostgres.graph.model.Chapter;
-import de.mayer.backendspringpostgres.graph.model.Path;
+import de.mayer.penandpaperdmhelperjcore.graph.model.Chapter;
+import de.mayer.penandpaperdmhelperjcore.graph.model.Path;
 
 import java.util.LinkedList;
 

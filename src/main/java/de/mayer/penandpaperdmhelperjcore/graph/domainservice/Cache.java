@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.graph.domainservice;
+package de.mayer.penandpaperdmhelperjcore.graph.domainservice;
 
 import java.util.Optional;
 

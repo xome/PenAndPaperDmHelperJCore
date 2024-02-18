@@ -1,13 +1,13 @@
-package de.mayer.backendspringpostgres.adventure.model;
+package de.mayer.penandpaperdmhelperjcore.adventure.model;
 
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.hamcrest.MatcherAssert.*;
 import static org.hamcrest.Matchers.instanceOf;
 import static org.hamcrest.core.Is.*;
-import static org.hamcrest.MatcherAssert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 class PictureTest {
 

@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.graph.model;
+package de.mayer.penandpaperdmhelperjcore.graph.model;
 
 import java.util.LinkedList;
 import java.util.stream.Collectors;

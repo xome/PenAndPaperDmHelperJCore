@@ -1,7 +1,7 @@
-package de.mayer.backendspringpostgres.graph.persistence.impl;
+package de.mayer.penandpaperdmhelperjcore.graph.impl;
 
-import de.mayer.backendspringpostgres.graph.domainservice.ChapterRepository;
-import de.mayer.backendspringpostgres.graph.model.Chapter;
+import de.mayer.penandpaperdmhelperjcore.graph.domainservice.ChapterRepository;
+import de.mayer.penandpaperdmhelperjcore.graph.model.Chapter;
 
 import java.util.*;
 import java.util.stream.Collectors;

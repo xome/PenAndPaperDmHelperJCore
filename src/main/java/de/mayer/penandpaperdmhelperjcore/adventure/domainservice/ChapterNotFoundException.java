@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.adventure.domainservice;
+package de.mayer.penandpaperdmhelperjcore.adventure.domainservice;
 
 public class ChapterNotFoundException extends Throwable{
 }

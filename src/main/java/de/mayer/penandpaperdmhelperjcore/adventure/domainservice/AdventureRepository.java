@@ -1,7 +1,6 @@
-package de.mayer.backendspringpostgres.adventure.domainservice;
+package de.mayer.penandpaperdmhelperjcore.adventure.domainservice;
 
-import de.mayer.backendspringpostgres.adventure.model.Adventure;
-import org.springframework.data.domain.Sort;
+import de.mayer.penandpaperdmhelperjcore.adventure.model.Adventure;
 
 import java.util.List;
 import java.util.Optional;
@@ -15,5 +14,5 @@ public interface AdventureRepository {
 
     void delete(Adventure adventure);
 
-    List<Adventure> findAll(Sort name);
+    List<Adventure> findAll();
 }

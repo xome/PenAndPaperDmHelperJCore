@@ -1,6 +1,6 @@
-package de.mayer.backendspringpostgres.adventure.domainservice;
+package de.mayer.penandpaperdmhelperjcore.adventure.domainservice;
 
-import de.mayer.backendspringpostgres.adventure.model.Chapter;
+import de.mayer.penandpaperdmhelperjcore.adventure.model.Chapter;
 
 import java.util.Optional;
 

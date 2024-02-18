@@ -1,9 +1,8 @@
-package domainservice;
+package de.mayer.penandpaperdmhelperjcore.graph.domainservice;
 
-import de.mayer.backendspringpostgres.graph.model.*;
-import de.mayer.backendspringpostgres.graph.persistence.InMemoryCache;
-import de.mayer.backendspringpostgres.graph.persistence.impl.InMemoryChapterLinkRepository;
-import de.mayer.backendspringpostgres.graph.persistence.impl.InMemoryChapterRepository;
+import de.mayer.penandpaperdmhelperjcore.graph.impl.InMemoryChapterLinkRepository;
+import de.mayer.penandpaperdmhelperjcore.graph.impl.InMemoryChapterRepository;
+import de.mayer.penandpaperdmhelperjcore.graph.model.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

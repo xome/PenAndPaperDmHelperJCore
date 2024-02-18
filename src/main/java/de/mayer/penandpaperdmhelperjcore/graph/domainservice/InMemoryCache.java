@@ -1,8 +1,5 @@
-package de.mayer.backendspringpostgres.graph.domainservice;
+package de.mayer.penandpaperdmhelperjcore.graph.domainservice;
 
-import de.mayer.backendspringpostgres.graph.domainservice.Cache;
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Component;
 
 import java.util.Collections;
 import java.util.HashMap;
@@ -10,8 +7,6 @@ import java.util.HashSet;
 import java.util.Optional;
 import java.util.concurrent.ConcurrentHashMap;
 
-@Component
-@Scope("singleton")
 public class InMemoryCache implements Cache {
     private ConcurrentHashMap<Class<?>, HashMap<String, Object>> cache;
     private ConcurrentHashMap<Class<?>, HashSet<String>> invalidatedKeys;

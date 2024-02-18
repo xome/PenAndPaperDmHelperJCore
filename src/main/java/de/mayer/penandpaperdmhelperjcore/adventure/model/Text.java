@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.adventure.model;
+package de.mayer.penandpaperdmhelperjcore.adventure.model;
 
 public record Text(String text) implements RecordInAChapter {
     public Text {

@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.graph.model;
+package de.mayer.penandpaperdmhelperjcore.graph.model;
 
 public record Chapter(String name, Integer approximateDurationInMinutes) {
 }

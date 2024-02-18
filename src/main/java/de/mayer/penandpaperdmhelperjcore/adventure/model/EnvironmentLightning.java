@@ -1,4 +1,4 @@
-package de.mayer.backendspringpostgres.adventure.model;
+package de.mayer.penandpaperdmhelperjcore.adventure.model;
 
 
 public record EnvironmentLightning(Double brightness, int[] rgb) implements RecordInAChapter {

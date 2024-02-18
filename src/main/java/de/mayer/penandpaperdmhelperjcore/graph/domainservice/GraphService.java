@@ -1,6 +1,6 @@
-package de.mayer.backendspringpostgres.graph.domainservice;
+package de.mayer.penandpaperdmhelperjcore.graph.domainservice;
 
-import de.mayer.backendspringpostgres.graph.model.*;
+import de.mayer.penandpaperdmhelperjcore.graph.model.*;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicBoolean;

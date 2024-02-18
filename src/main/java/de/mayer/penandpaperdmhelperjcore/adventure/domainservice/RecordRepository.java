@@ -1,9 +1,9 @@
-package de.mayer.backendspringpostgres.adventure.domainservice;
+package de.mayer.penandpaperdmhelperjcore.adventure.domainservice;
 
-import de.mayer.backendspringpostgres.adventure.model.Adventure;
-import de.mayer.backendspringpostgres.adventure.model.Chapter;
-import de.mayer.backendspringpostgres.adventure.model.RecordInAChapter;
-import de.mayer.backendspringpostgres.adventure.model.RecordNotFoundException;
+import de.mayer.penandpaperdmhelperjcore.adventure.model.Adventure;
+import de.mayer.penandpaperdmhelperjcore.adventure.model.Chapter;
+import de.mayer.penandpaperdmhelperjcore.adventure.model.RecordInAChapter;
+import de.mayer.penandpaperdmhelperjcore.adventure.model.RecordNotFoundException;
 
 import java.util.LinkedList;
 import java.util.List;

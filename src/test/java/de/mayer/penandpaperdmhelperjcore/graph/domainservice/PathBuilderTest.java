@@ -1,7 +1,7 @@
-package domainservice;
+package de.mayer.penandpaperdmhelperjcore.graph.domainservice;
 
-import de.mayer.backendspringpostgres.graph.model.Chapter;
-import de.mayer.backendspringpostgres.graph.model.Path;
+import de.mayer.penandpaperdmhelperjcore.graph.model.Chapter;
+import de.mayer.penandpaperdmhelperjcore.graph.model.Path;
 import org.hamcrest.core.Is;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,6 @@
-package de.mayer.backendspringpostgres.graph.domainservice;
+package de.mayer.penandpaperdmhelperjcore.graph.domainservice;
 
-import de.mayer.backendspringpostgres.graph.model.Chapter;
+import de.mayer.penandpaperdmhelperjcore.graph.model.Chapter;
 
 import java.util.Optional;
 import java.util.Set;
